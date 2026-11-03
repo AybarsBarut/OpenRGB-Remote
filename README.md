@@ -9,13 +9,13 @@
 
 An open-source, ad-free, privacy-respecting Android infrared (IR) remote control app for standard **24-key** and **44-key RGB LED strip lights**.
 
-Built as a direct replacement for ad-bloated Play Store apps like `com.ledremote.led_remote`. Works natively on **Xiaomi, Redmi, Poco**, and any other Android smartphone equipped with a built-in hardware IR blaster.
+Built as a clean alternative to ad-bloated generic remote apps on app stores. Works natively on **Xiaomi, Redmi, Poco**, and any other Android smartphone equipped with a built-in hardware IR blaster.
 
 ---
 
 ## ⚡ Comparison
 
-| Feature | Play Store Apps (`com.ledremote.led_remote`) | OpenRGB Remote |
+| Feature | Typical Store Apps | OpenRGB Remote |
 | :--- | :---: | :---: |
 | **Ads** | ❌ Fullscreen ads on almost every click | ✅ **Zero Ads (Forever)** |
 | **Internet Access** | ⚠️ Required (`android.permission.INTERNET`) | ✅ **Not requested (100% Offline)** |
